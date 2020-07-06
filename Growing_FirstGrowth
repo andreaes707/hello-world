@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- Meta Tags -->
+ <meta charset="utf-8">
+ <meta name="Developer/Author" content="ALE ~ Andrea L. Estrada">
+ <meta name="description" content="Welcome to the first page. Sample; Sample Page; Hopefully can keep growing just for fun. :) Into the Chaos">
+<!--  Links & Scripts  -->
+ <link href="master.css" type="text/css">
+</head>
+<body>
+<!--  Nav  -->
+<nav>
+ <li>Home</li>
+ <li>Blog</li>
+ <li>Projects</li>
+ <li>Photos</li>
+ <li>Get Creative</li>
+ <li>About</li>
+ <li>Contact</li>
+</nav>
+
+<!--  Header  -->
+<header></header>
+
+<!-- Intro Heading & Paragraph(s) -->
+  <h2></h2>
+  <p></p>
+  <p></p>
+  
+<!-- List(s) -->
+
+<ul><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li></ul>
+
+<ol><li></li><li></li><li></li></ol>
+
+<!-- Table(s) -->
+<table></table>
+<!--  -->
+
+
+<footer></footer>
+<!-- Body - Close - End  -->
+</body>
+</html> 
